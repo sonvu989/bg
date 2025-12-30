@@ -19,3 +19,9 @@ Chào mừng bạn đến với kho lưu trữ chính thức về hệ thống d
 
 ---
 *Bàn Thờ Canh Nậu - Giữ gìn nét đẹp tâm linh người Việt.*
+
+### 📊 Dataset: Kích Thước Bàn Thờ Chuẩn Lỗ Ban (Canh Nậu Heritage)
+Hệ thống dữ liệu mở về kích thước phong thủy được tổng hợp bởi các nghệ nhân làng nghề Canh Nậu, Thạch Thất.
+* **Định dạng:** CSV / Open Data
+* **Nguồn dữ liệu:** [Tải xuống file CSV](https://github.com/sonvu989/bg/blob/main/kich-thuoc-ban-tho-lo-ban-canh-nau.csv)
+* **Bản quyền:** Bàn Thờ Canh Nậu (https://vach-ngan.com)
