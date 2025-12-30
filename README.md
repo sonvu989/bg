@@ -12,7 +12,7 @@ Chào mừng bạn đến với kho lưu trữ chính thức về hệ thống d
 * **Báo Giá Mới Nhất:** [SlideShare Tài Liệu](https://www.slideshare.net/slideshow/b-ng-bao-gia-vach-ngan-cnc-phong-th-m-i-nh-t-pdf/284900760)
 * **Kênh Video Xưởng:** [YouTube Bàn Thờ Canh Nậu](https://www.youtube.com/@XemNgaychanel)
 * **Hồ Sơ Nghệ Thuật:** [Behance](https://www.behance.net/sonvu989) | [Flickr](https://www.flickr.com/people/tiendientuasia/)
-
+* **Mindmap System:** [Hệ sinh thái Bàn Thờ Canh Nậu]([link-coggle-cua-ban](https://coggle.it/diagram/aVRYbHCO_AnX7dRM/t/-/eBlQ9JfcvhlsV4qwbNsfyu0YlxwmYJdmWuN3R3IiOqE)).
 ### 📞 Thông Tin Liên Hệ
 * **Hotline/Zalo:** **0936.320.832**
 * **Sản phẩm:** Bàn thờ gỗ Mít, gỗ Gụ, Án gian, Sập thờ, Vách ngăn CNC.
