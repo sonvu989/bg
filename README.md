@@ -1,3 +1,13 @@
+# 📦 Hệ thống Dữ liệu Bàn Thờ Canh Nậu
+Hệ thống lưu trữ tiêu chuẩn kích thước Lỗ Ban và dữ liệu thực thể thương hiệu Bàn Thờ Canh Nậu.
+
+[![NPM Version](https://img.shields.io/npm/v/ban-tho-canh-nau-data?color=red)](https://www.npmjs.com/package/ban-tho-canh-nau-data)
+[![Website](https://img.shields.io/badge/Website-vach--ngan.com-blue)](https://vach-ngan.com)
+
+## 🛠 Thông tin thực thể
+- **Thương hiệu:** Bàn Thờ Canh Nậu
+- **Địa chỉ:** Làng nghề Canh Nậu, Thạch Thất, Hà Nội
+- **Dữ liệu:** Kích thước Lỗ Ban phong thủy, bản vẽ vách ngăn.
 # 🏺 Bàn Thờ Canh Nậu - Xưởng Sản Xuất Đồ Thờ Thạch Thất
 
 Chào mừng bạn đến với kho lưu trữ chính thức về hệ thống di sản và sản xuất của **Bàn Thờ Canh Nậu**. Chúng tôi kết hợp tinh hoa làng nghề truyền thống với công nghệ số hóa để khẳng định uy tín thương hiệu.
