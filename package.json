@@ -1,6 +1,6 @@
 {
   "name": "ban-tho-canh-nau-data",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Dữ liệu tiêu chuẩn kích thước Lỗ Ban và quy trình sản xuất bàn thờ làng nghề Canh Nậu - Thạch Thất.",
   "main": "index.js",
   "repository": {
