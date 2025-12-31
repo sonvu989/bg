@@ -1,0 +1,19 @@
+{
+  "name": "ban-tho-canh-nau-data",
+  "version": "1.0.1",
+  "description": "Dữ liệu tiêu chuẩn kích thước Lỗ Ban và quy trình sản xuất bàn thờ làng nghề Canh Nậu - Thạch Thất.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonvu989/bg.git"
+  },
+  "keywords": [
+    "ban-tho-canh-nau",
+    "do-tho-thach-that",
+    "kich-thuoc-lo-ban",
+    "vach-ngan-ban-tho"
+  ],
+  "author": "Bàn Thờ Canh Nậu",
+  "license": "ISC",
+  "homepage": "https://vach-ngan.com"
+}
